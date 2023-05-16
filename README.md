@@ -1,7 +1,7 @@
 
 
 
-<h1> Hi 👋, I'm <a href="https://portfolios.talentsprint.com/~sonal_k/" target="blank">Ayush Ginoya!</a></h1>
+<h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://portfolios.talentsprint.com/~sonal_k/" target="blank">Ayush Ginoya!</a></h1>
 
 ---
 ### About Me
@@ -11,10 +11,28 @@
 :man_technologist: "Hi there! I'm Ayush. I am an ethusiastic learner and college student with a passion for programming. I'm currently exploring different technologies, including C++,JAVA and Flutter, and enjoy learning new things.
 
 ---
-### My GitHub Stats
+## 🔝 Github Stats
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=AyushGinoya&show_icons=true&theme=radical)
 
+
+
+![Snake animation](https://github.com/SteffiKeranJ/SteffiKeranJ/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💻 Skills
+   
+<div style="display: inline_block"><br>
+  <p>
+  <img alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+    
+      
+     
+  </p>
+</div>
 
 ---
 ### Profile Hits🔳
