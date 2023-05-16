@@ -21,15 +21,21 @@
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=AyushGinoya&show_icons=true&theme=radical)
 
-
-
+<br></br>
 <div>
-
-   
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGinoya&theme=chartreuse-dark&hide_border=true" />
-   
 </div>
+   
+<br></br>
+   
+   
+<div>
+  <a href="https://github.com/AyushGinoya">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGinoya&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+ 
 
+  
 
 ---
 
