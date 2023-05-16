@@ -10,6 +10,12 @@
 
 :man_technologist: "Hi there! I'm Ayush. I am an ethusiastic learner and college student with a passion for programming. I'm currently exploring different technologies, including C++,JAVA and Flutter, and enjoy learning new things.
 
+
+---
+### Profile Hits🔳
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushGinoya&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGinoya" /> </p>
+
+
 ---
 ## 🔝 Github Stats
 
@@ -17,7 +23,13 @@
 
 
 
-![Snake animation](https://github.com/SteffiKeranJ/SteffiKeranJ/raw/output/github-contribution-grid-snake.svg)
+<div>
+
+   
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGinoya&theme=chartreuse-dark&hide_border=true" />
+   
+</div>
+
 
 ---
 
@@ -33,7 +45,3 @@
      
   </p>
 </div>
-
----
-### Profile Hits🔳
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushGinoya&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGinoya" /> </p>
