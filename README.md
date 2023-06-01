@@ -27,7 +27,6 @@
 
 ## 🔝 Github Stats
 
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=AyushGinoya&show_icons=true&theme=radical)
 
 <br></br>
 <div>
@@ -36,7 +35,8 @@
    
 <br></br>
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGinoya&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AyushGinoya)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   
