@@ -8,7 +8,7 @@
 
 
 
-:man_technologist: I'm Ayush. I am an ethusiastic learner and college student with a passion for programming. I'm currently exploring different technologies, including C++,JAVA and Flutter, and enjoy learning new things.
+:man_technologist: I'm Ayush. I am a college student with a passion for programming. I'm currently exploring different technologies, including C++,JAVA and Flutter, and enjoy learning new things.
 
 
 ---
