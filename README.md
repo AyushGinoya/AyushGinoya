@@ -1,14 +1,13 @@
+<h1 align="center">Hi 👋, I'm Ayush Ginoya</h1>
 
+- 🌱 I’m currently learning **Android Development, Flutter**
 
-
-<h1> Hi I'm Ayush Ginoya</h1>
+- 📫 How to reach me **ginoyaayush@gmail.com**
 
 ---
-### About Me
 
-
-
-:man_technologist: I'm Ayush. I am a college student with a passion for programming. I'm currently exploring different technologies, including C++,JAVA and Flutter, and enjoy learning new things.
+<h3 align="left">💻Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
 ---
@@ -18,40 +17,18 @@
 ---
 
 ## 💳 Github Profile Summary Card
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGinoya&theme=vue"/>
 </p>
 
+
+
 ---
-
-
 ## 🔝 Github Stats
 
-
-<br></br>
-<div>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGinoya&theme=chartreuse-dark&hide_border=true" />
-</div>
-   
-<br></br>
-   
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AyushGinoya)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushginoya&" alt="ayushginoya" /></p>
 
 ---
-
-## 💻 Skills
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)   
-<div style="display: inline_block"><br>
-  <p>
-  <img alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-     
-  </p>
-    
-</div>
+<br></br>
+   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushginoya&show_icons=true&locale=en&layout=compact" alt="ayushginoya" /></p>
