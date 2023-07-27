@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Ginoya</h1>
 
-- 🌱 I’m currently learning **Android Development, Flutter**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **ginoyaayush@gmail.com**
 
