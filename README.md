@@ -17,21 +17,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushGinoya&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGinoya" /> </p>
 
 ---
-
 ## 💳 Github Profile Summary Card
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushGinoya&theme=vue"/>
 </p>
 
-
-<!--
 ---
+
+
 ## 🔝 Github Stats
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushginoya&" alt="ayushginoya" /></p>
--->
 
----
+<br></br>
+<div>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGinoya&theme=chartreuse-dark&hide_border=true" />
+</div>
+   
 <br></br>
    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushginoya&show_icons=true&locale=en&layout=compact" alt="ayushginoya" /></p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AyushGinoya)](https://github.com/anuraghazra/github-readme-stats)
+
+
