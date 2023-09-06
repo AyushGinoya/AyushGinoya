@@ -3,6 +3,24 @@
 - 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **ginoyaayush@gmail.com**
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!--
+# [Daily Random Photo](https://www.dailyrandomphoto.com/)
+
+<div align="center">
+  <br>
+  <br>
+  <a href="https://www.dailyrandomphoto.com/p/2023/2023-09-06/">
+    <img src="https://images.unsplash.com/photo-1691629015243-b2581c01bfe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTY5Mzk2MDA3MHw&ixlib=rb-4.0.3&q=80&w=300" width="300px">
+  </a>
+  <br>
+  <br>
+</div>
+ -->
+
 
 ---
 
