@@ -49,10 +49,12 @@
 
 
 <br></br>
-<div>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGinoya&theme=chartreuse-dark&hide_border=true" />
-</div>
+   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGinoya&theme=chartreuse-dark&hide_border=true" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGinoya&hide=contribs,prs)--->
    
 <br></br>
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGinoya&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
