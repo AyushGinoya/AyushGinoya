@@ -47,7 +47,7 @@
 
 ## 🔝 Github Stats
 <div>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh203&theme=chartreuse-dark&hide_border=true" />
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGinoya&theme=chartreuse-dark&hide_border=true" />
 </div>
    
 
