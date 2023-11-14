@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Ginoya</h1>
 
-- 🌱 I’m currently learning **Android Development**
+-  I’m currently learning **Android Development**
 
-- 📫 How to reach me **ginoyaayush@gmail.com**
+-  How to reach me **ginoyaayush@gmail.com**
 ---
 
 <h3>  Joke Spinner</h3>
