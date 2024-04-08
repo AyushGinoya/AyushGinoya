@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Ginoya</h1>
 
--  I’m currently learning **Flutter**
+-  I’m currently learning **Flutter and Spring boot**
 
 -  How to reach me **ginoyaayush@gmail.com**
 ---
@@ -67,8 +67,6 @@
    
 
 <br></br>
-   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGinoya&theme=chartreuse-dark&hide_border=true" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGinoya&hide=contribs,prs)--->
   
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGinoya&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
