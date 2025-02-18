@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Ginoya</h1>
 
--  I’m currently learning **Flutter and Spring boot**
+-  I’m currently learning **.NET and System Design**
 
 -  How to reach me **ginoyaayush@gmail.com**
 ---
